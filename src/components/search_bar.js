@@ -9,7 +9,7 @@ class SearchBar extends Component {
     };
   }
   render() {
-    console.log(window.document.body);
+    // console.log(window.document.body);
     return (
       <div>
         <input
